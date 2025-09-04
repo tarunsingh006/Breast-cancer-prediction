@@ -1,5 +1,8 @@
 <p align="center"> 
-<a href="https://github.com/tarunsingh006"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
+<a href="https://github.com/tarunsingh006">
+  <img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=tarunsingh006&color=ff3300" alt="Maintainer"/>
+</a> 
+</p>
 
 # Breast Cancer Prediction using Predictive Analytics model
 ---
@@ -34,5 +37,6 @@ We'll construct a predictive model using SVM machine learning algorithm to predi
 ### Part_5: Optimizing the  Support Vector Classifier
 **Aim: Construct predictive models to predict the diagnosis of a breast tumor.** 
 We'll aim to tune parameters of the SVM Classification model using scikit-learn.
+
 
 
